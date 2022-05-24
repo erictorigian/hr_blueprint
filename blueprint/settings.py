@@ -13,6 +13,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+CSRF_TRUSTED_ORIGINS=["https://hr-blueprint.herokuapp.com"]
+
 
 # Application definition
 
